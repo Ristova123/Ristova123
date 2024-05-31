@@ -41,5 +41,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ristova123&layout=compact&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ristova123&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ristova123&langs_count=8)
 
 
