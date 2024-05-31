@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Tamara and I'm a Software Developer </h2>
 
 ###
+###
 <p align="left">I'm from Stip<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play chess</p>
 
 ###
