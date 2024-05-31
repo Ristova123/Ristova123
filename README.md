@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Ristova123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ristova123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ristova123/Ristova123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
