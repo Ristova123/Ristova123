@@ -8,14 +8,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-###S
-
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
-<div align="center">
-<h3 align="left">🛠 Language and tools</h3>
-</div>
+
+<h3 align="center">🛠 Language and tools</h3>
+
 ###
 
 <div align="left">
