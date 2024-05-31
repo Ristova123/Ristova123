@@ -1,7 +1,4 @@
-## Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ristova123)](https://github.com/anuraghazra/github-readme-stats)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Tamara and I'm a Software developer </h2>
 
 ###
 
