@@ -1,8 +1,12 @@
 <h1 align="left">Hi 👋! My name is Tamara and I'm a Software Developer </h1>
 
 ###
+<br>
+<h3 align="left">🌴 About me</h3>
+<p align="left">Passionate and experienced programmer with 2 years of experience in software development. Specializing in web development using technologies such as HTML, CSS, PHP, C#, C++. Proven ability in problem-solving, performance optimization, developing scalable applications. An avid traveler, I enjoy exploring new places and cultures, which helps broaden my perspectives and creativity in my work. Committed to continuous learning and skill enhancement to deliver innovative solutions that meet user and business needs..</p>
+
 ###
-<p align="left">I'm from Stip<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I read books</p>
+<p align="left">- 📍 I'm from Stip<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I read books</p>
 
 ###
 <br>
