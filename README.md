@@ -5,8 +5,8 @@
 <p align="left">I'm from Stip<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I read books</p>
 
 ###
-
-<h3 align="center">🛠 Language and tools</h3><br><br>
+<br><br>
+<h3 align="center">🛠 Language and tools</h3>
 
 ### 
 
@@ -23,6 +23,7 @@
 
 
 ###
+<br><br>
 <h3 align="center">💎 You can follow me at</h3>
 
 
